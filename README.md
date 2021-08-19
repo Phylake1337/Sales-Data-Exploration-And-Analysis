@@ -1,7 +1,7 @@
 # Sales-Data-Exploration-And-Analysis
 Analysis and exploration of digital electronics store to answer some specific business questions.
 
-# Table of Contents
+## Table of Contents
 * [Introduction](#Introduction)
 * [Data](#Data)
 * [Business Questions](#Questions)
