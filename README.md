@@ -44,5 +44,3 @@ Q5: What product sold the most? Why do you think it sold the most?
 
 
 
-
-
