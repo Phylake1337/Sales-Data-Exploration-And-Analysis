@@ -4,7 +4,7 @@ Analysis and exploration of digital electronics store to answer some specific bu
 # Table of Contents
 * [Introduction](#Introduction)
 * [Data](#Data)
-* [Business Questions](#Business)
+* [Business Questions](#Questions)
 * [Data-Driven Answers](#Answers)
 
 ----
@@ -14,12 +14,12 @@ This is a quick data anaylsis and exploration for digital electronics store to a
 ## Data
 Data used for the analysis consists of 12 csv files, each file have specific informations about specific month sales, and each file have the following attribute (Order ID, Product,	Quantity Ordered,	Price Each,	Order Date,	Purchase Address) for each ordered item in a specific month.
 
-## Business
-Q1: What was the best month for sales? How much was earned that month?
-Q2: What city sold the most product?
-Q3: What time should we display advertisements to maximize likelihood of customer's buying product?
-Q4: What products are most often sold together?
-Q5: What product sold the most? Why do you think it sold the most?
+## Questions
+* Q1: What was the best month for sales? How much was earned that month?
+* Q2: What city sold the most product?
+* Q3: What time should we display advertisements to maximize likelihood of customer's buying product?
+* Q4: What products are most often sold together?
+* Q5: What product sold the most? Why do you think it sold the most?
 
 ## Answers
 
