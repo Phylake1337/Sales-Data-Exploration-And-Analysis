@@ -42,7 +42,7 @@ Data used for the analysis consists of 12 csv files, each file have specific inf
 
 ### Q4: What products are most often sold together?
   1. Lightning Charging Cable,iPhone 
-  2. Google Phone,USB-C Charging Cable
+  2. Google Phone,USB-C Charging Cable .. etc
 
 ![](charts/sold_togther.png)
   
