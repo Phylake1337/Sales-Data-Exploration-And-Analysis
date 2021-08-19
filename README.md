@@ -25,6 +25,7 @@ Data used for the analysis consists of 12 csv files, each file have specific inf
 
 ### Q1: What was the best month for sales? How much was earned that month?
 * Sales in the last month of the year is the highest, almost 5 M$.
+
 ![](charts/month_vs_sales.png)
 
 ### Q2: What city sold the most product?
