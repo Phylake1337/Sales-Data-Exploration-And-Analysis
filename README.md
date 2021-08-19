@@ -4,7 +4,8 @@ Analysis and exploration of digital electronics store to answer some specific bu
 # Table of Contents
 * [Introduction](#Introduction)
 * [Data](#Data)
-* [Business Questions](#usiness Questions)
+* [Business Questions](#Business Questions)
+* [Data-Driven Answers](#Answers)
 
 ----
 ## Introduction
@@ -19,6 +20,27 @@ Q2: What city sold the most product?
 Q3: What time should we display advertisements to maximize likelihood of customer's buying product?
 Q4: What products are most often sold together?
 Q5: What product sold the most? Why do you think it sold the most?
+
+## Answers
+
+# Q1: What was the best month for sales? How much was earned that month?
+* Sales in the last month of the year is the highest, almost 5 M$.
+
+# Q2: What city sold the most product?
+* San Francisico CA ranked on top of all cities, hence it has the top sales value which is almost 8 M$ for the whole year.
+
+# Q3: What time should we display advertisements to maximize likelihood of customer's buying product?
+ * During Day:  Around 1 AM would be great time each day as the orders tend to decrese around this time.
+ * During The Whole year: At the beginning of May, as the orders tend to decrese at May.
+
+# Q4: What products are most often sold together?
+  1. Lightning Charging Cable,iPhone 
+  2. Google Phone,USB-C Charging Cable 
+  .
+  .
+  
+# Q5: What product sold the most? Why do you think it sold the most?
+* Batteries, Charging Cable .. Maybe cause they are not costy
 
 
 
